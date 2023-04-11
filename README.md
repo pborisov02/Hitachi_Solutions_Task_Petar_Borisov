@@ -1,4 +1,5 @@
 This is an assessment task for the SPACE Programme of HITACHI SOLUTIONS BULGARIA
+
 Task:
 Weather conditions for SPACE shuttle launch
 
